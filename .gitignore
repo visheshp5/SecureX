@@ -1,0 +1,7 @@
+# dependencies
+node_modules/
+
+# environment variables
+server/.env
+
+test-login.html
